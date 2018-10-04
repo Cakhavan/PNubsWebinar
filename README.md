@@ -1,3 +1,3 @@
 # PNubsWebinar
 Demo for the PubNub IoT Webinar
-https://camo.githubusercontent.com/5bc964692f93436566239a5dd506bb55c0ee4171/68747470733a2f2f692e696d6775722e636f6d2f6f673544446a662e706e67
+https://dashboard.pubnub.com/signup?devrel_gh=Cakhavan/PubNubStateMachine
